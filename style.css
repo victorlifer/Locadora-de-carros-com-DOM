@@ -1,0 +1,40 @@
+body {
+    height: 20px;
+    margin: 10px;
+    padding: 160px;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+form {
+    font-size: 25px;
+    background: yellowgreen;
+    margin-bottom: 10px 10px 10px 10px;
+}
+
+h2,
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    margin: 10px;
+}
+
+input {
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+.btn {
+    font-size: 19px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn:hover {
+    color: bisque;
+    cursor: pointer;
+    color: #0000;
+}
